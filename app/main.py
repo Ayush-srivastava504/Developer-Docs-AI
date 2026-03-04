@@ -3,8 +3,8 @@ from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
 import logging
 
-from config import settings
-from schemas import HealthCheckResponse
+from app.core.config import settings
+from app.schemas.schemas import HealthCheckResponse
 
 logging.basicConfig(
     level=logging.INFO,
