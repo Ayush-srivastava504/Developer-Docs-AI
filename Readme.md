@@ -1,6 +1,13 @@
 # Developer Docs AI
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/Framework-FastAPI-009688)](https://fastapi.tiangolo.com/)
+[![Vector DB](https://img.shields.io/badge/VectorDB-ChromaDB-purple)]()
+[![LLM](https://img.shields.io/badge/LLM-OpenAI-green)]()
 
 A production-grade document ingestion and processing system built with FastAPI. Supports multiple document formats with intelligent text chunking, designed for scalability and clean architecture.
+
+[![Live API](https://img.shields.io/badge/API-Live%20Docs-success)](https://developer-docs-ai-2.onrender.com/docs)
 
 ## What This Project Does
 
