@@ -1,6 +1,9 @@
 import os
 from typing import List
 from functools import lru_cache
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 class Settings:
